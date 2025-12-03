@@ -1,0 +1,3 @@
+Current Environment: dev
+Database URL: db-dev.example.com
+Log Level: DEBUG
