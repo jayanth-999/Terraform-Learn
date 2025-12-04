@@ -1,0 +1,5 @@
+{
+  "environment": "dev",
+  "db_host": "db-dev.example.com",
+  "debug": true
+}
