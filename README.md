@@ -31,6 +31,18 @@ This repository contains the code and examples for a complete Terraform learning
 | `10-import` | **Disaster Recovery** | How to `import` existing/legacy resources into Terraform state. |
 | `11-debugging` | **Troubleshooting** | A broken configuration to practice debugging with `TF_LOG`. |
 
+### Phase 3: Automation
+| Folder | Module | Description |
+|--------|--------|-------------|
+| `12-python-automation` | **Python Wrapper** | A `deploy.py` script to automate Terraform runs based on user input. |
+| `13-ansible-integration` | **Ansible** | Triggering Ansible playbooks via `local-exec` for configuration management. |
+
+### Phase 4: Cloud Native
+| Folder | Module | Description |
+|--------|--------|-------------|
+| `14-kubernetes` | **K8s & Helm** | Provisioning AKS and deploying Nginx with the Helm provider. |
+
+
 ## Common Commands
 
 ### Workflow
